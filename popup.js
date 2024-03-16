@@ -138,7 +138,7 @@ function handler() {
     })
 }
 
-function checkBlance() {}
+function checkBlance() { }
 
 function getOpenNetwork() { }
 
